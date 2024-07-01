@@ -21,6 +21,6 @@ de la solution, incluant quelques requêtes et les résultats obtenus.
  Mettre à jour les données  <br>
  Creation des vues pour faciliter des requetes
 
-**Conclusion**
+**Conclusion** <br>
 Ce projet démontre la capacité à créer et gérer une base de données pour une institution universitaire fictive, 
 en mettant en œuvre diverses compétences en gestion de bases de données et en requêtes SQL. 
