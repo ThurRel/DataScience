@@ -1,6 +1,6 @@
 **Creation d'une base de donnees d une universite fictive**
 
-**Introduction**
+**Introduction** <br>
 Tome est une université fictive qui cherche à gérer efficacement ses données. Ce projet consiste à créer et à gérer une base de données 
 pour cette université, avec des livrables détaillant les étapes et les résultats du processus.
 
