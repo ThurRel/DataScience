@@ -3,7 +3,7 @@
 Tome est une université fictive qui cherche à gérer efficacement ses données. Ce projet consiste à créer et à gérer une base de données 
 pour cette université, avec des livrables détaillant les étapes et les résultats du processus.
 
-**Les livrables: 
+__Les livrables: 
 1.Requêtes SQL : Toutes les requêtes effectuées sur la base de données.
 2.Fichiers CSV : Les fichiers CSV ajoutés à la base de données.
 3.Présentation PowerPoint : Une présentation de la problématique avec une vue de la solution, incluant quelques requêtes et les résultats obtenus.
