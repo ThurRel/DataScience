@@ -1,4 +1,4 @@
-**Creation d'une base de donnees d une universite fictive**
+**Creation d'une base de donnees d'une universite fictive**
 
 **Introduction** <br>
 Tome est une université fictive qui cherche à gérer efficacement ses données.<br>
